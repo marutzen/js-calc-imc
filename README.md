@@ -1,4 +1,4 @@
-# js-inicial
+# Cálculo de IMC
 
 Projeto para realizar o cálculo de IMC.
 
